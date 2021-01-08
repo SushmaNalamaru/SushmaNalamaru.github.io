@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+<meta name="google-site-verification" content="FIfKdFobetwvpNequJL2FRrFPG-O1mwG3nlYLf-2sZM" />
 You can use the [editor on GitHub](https://github.com/SushmaNalamaru/SushmaNalamaru.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<meta name="google-site-verification" content="FIfKdFobetwvpNequJL2FRrFPG-O1mwG3nlYLf-2sZM" />
+
 
 - Bulleted
 - List

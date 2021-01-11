@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+<meta name="google-site-verification" content="FIfKdFobetwvpNequJL2FRrFPG-O1mwG3nlYLf-2sZM" />
 # Header 1
 ## Header 2
 ### Header 3
